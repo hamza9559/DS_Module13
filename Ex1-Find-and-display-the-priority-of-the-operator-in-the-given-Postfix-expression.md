@@ -12,11 +12,10 @@ To write a C program to find and display the priority of the operator in the giv
 6.Print the operator and its corresponding priority level.   
 
 ## Program:
-```
-/*
+```c
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by:  SANJAY S
-RegisterNumber: 212222230132
+Developed by:  HAMZA FAROOQUE
+RegisterNumber: 212223040054
 
 #include <stdio.h> 
 #include<string.h> 
@@ -77,7 +76,6 @@ break;
 return 0; 
 } 
 
-*/
 ```
 
 ## Output:
